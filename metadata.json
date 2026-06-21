@@ -1,0 +1,6 @@
+{
+  "name": "Dossier d'Électrification Hybride de l'Île d'Idjwi",
+  "description": "Portail interactif d'étude de faisabilité, de planification technique et d'analyse financière pour l'électrification photovoltaïque avec stockage par batteries de l'île d'Idjwi (RDC), inspiré de la rigueur du projet de gestion de Goma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
